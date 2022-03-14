@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace CourseManagement.View
 {
     /// <summary>
-    /// LoginView.xaml 的交互逻辑
+    /// LoginView.xaml 的交互逻辑 
     /// </summary>
     public partial class LoginView : Window
     {
